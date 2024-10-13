@@ -4,4 +4,4 @@ opengrok/docker
 --platform=linux/arm64 xiaoyaliu/alist
 nyanmisaka/jellyfin
 technosoft2000/calibre-web
-xhongc/music-tag-web
+xhongc/music_tag_web
