@@ -5,3 +5,4 @@ opengrok/docker
 nyanmisaka/jellyfin
 technosoft2000/calibre-web
 xhongc/music_tag_web
+xhongc/music_tag_web:latest
